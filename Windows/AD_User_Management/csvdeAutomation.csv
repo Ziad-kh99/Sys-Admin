@@ -1,0 +1,16 @@
+DN,ObjectClass,SamAccountName,UserPrincipalName,Description,UserAccountControl,DisplayName
+"cn=user1,OU=IT,DC=act,DC=local",user,user1,user1@act.local,,514,user1
+"cn=user2,OU=IT,DC=act,DC=local",user,user2,user2@act.local,,514,user2
+"cn=user3,OU=IT,DC=act,DC=local",user,user3,user3@act.local,,514,user3
+"cn=user4,OU=IT,DC=act,DC=local",user,user4,user4@act.local,,514,user4
+"cn=user5,OU=IT,DC=act,DC=local",user,user5,user5@act.local,,514,user5
+"cn=user6,OU=ACC,DC=act,DC=local",user,user6,user6@act.local,,514,user6
+"cn=user7,OU=ACC,DC=act,DC=local",user,user7,user7@act.local,,514,user7
+"cn=user8,OU=ACC,DC=act,DC=local",user,user8,user8@act.local,,514,user8
+"cn=user9,OU=ACC,DC=act,DC=local",user,user9,user9@act.local,,514,user9
+"cn=user10,OU=ACC,DC=act,DC=local",user,user10,user10@act.local,,514,user10
+"cn=user11,OU=HR,DC=act,DC=local",user,user11,user11@act.local,,514,user11
+"cn=user12,OU=HR,DC=act,DC=local",user,user12,user12@act.local,,514,user12
+"cn=user13,OU=HR,DC=act,DC=local",user,user13,user13@act.local,,514,user13
+"cn=user14,OU=HR,DC=act,DC=local",user,user14,user14@act.local,,514,user14
+"cn=user15,OU=HR,DC=act,DC=local",user,user15,user15@act.local,,514,user15
